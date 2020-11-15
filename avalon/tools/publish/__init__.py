@@ -1,7 +1,9 @@
 import os
 from pyblish import api
 
-ICON = os.path.join(os.path.dirname(api.__file__), "icons", "logo-32x32.svg")
+ICON = os.path.join(
+    os.path.dirname(api.__file__), "icons", "svg", "studio-logomark.svg"
+)
 
 
 def show(parent=None):
