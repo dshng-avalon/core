@@ -86,6 +86,20 @@ def _load_fonts():
         "opensans/OpenSans-Regular.ttf",
         "opensans/OpenSans-Semibold.ttf",
         "opensans/OpenSans-SemiboldItalic.ttf",
+        "nunito/Nunito-ExtraBold.ttf",
+        "nunito/Nunito-ExtraBoldItalic.ttf",
+        "nunito/Nunito-Bold.ttf",
+        "nunito/Nunito-BoldItalic.ttf",
+        "nunito/Nunito-ExtraBold.ttf",
+        "nunito/Nunito-ExtraBoldItalic.ttf",
+        "nunito/Nunito-Italic.ttf",
+        "nunito/Nunito-ExtraLight.ttf",
+        "nunito/Nunito-ExtraLightItalic.ttf",
+        "nunito/Nunito-Light.ttf",
+        "nunito/Nunito-LightItalic.ttf",
+        "nunito/Nunito-Regular.ttf",
+        "nunito/Nunito-Semibold.ttf",
+        "nunito/Nunito-SemiboldItalic.ttf"
     ]
 
     for font in fonts:

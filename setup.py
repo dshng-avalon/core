@@ -51,6 +51,7 @@ try:
                 "style/rc/*.png",
                 "fonts/opensans/*.txt",
                 "fonts/opensans/*.ttf",
+                "fonts/nunito/*.ttf",
                 "vendor/jsonschema/schemas/*.json",
                 "vendor/qtawesome/fonts/*.ttf",
                 "vendor/qtawesome/fonts/*.json",
